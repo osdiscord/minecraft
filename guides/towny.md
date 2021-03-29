@@ -1,1 +1,1 @@
-![Towny Instructions](./img/Towny.png)
+![Towny Instructions](./img/townyguide.png)
