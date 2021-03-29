@@ -1,1 +1,1 @@
-# Towny Instructions
+![Towny Instructions](./img/Towny.png)
