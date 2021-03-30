@@ -87,6 +87,7 @@ To make the guide easier to read and navigate for users, commands and other code
 
 \`\`\`
 Long text codeblock
+
 that works on multiple lines
 \`\`\`
 ->
